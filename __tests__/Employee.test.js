@@ -1,5 +1,10 @@
 const Employee = require("../lib/Employee");
 
+test("Can add Employee", () => {
+  const e = new Employee();
+  expect(typeof(e)).toBe("object");
+});
+
 test("Can set name via constructor arguments", () => {
     const name = "Joyce";
     const e = new Employee(name);
