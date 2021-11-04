@@ -17,6 +17,8 @@ The following video shows the full functionality of the team profile. Click the 
 
 https://watch.screencastify.com/v/aqMH7hPnAw9BqgbrbyC6
 
+![Screenshot (60)](https://user-images.githubusercontent.com/82970208/140378352-d469b92c-350f-4f76-a8d4-debeabd98d37.png)
+
 
 ## Installation
 
